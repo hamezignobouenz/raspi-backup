@@ -1,0 +1,6 @@
+a1	this is the first article
+a2	this is the second article, it is a little longer than the first one
+a3	this is the third article and it doesnt contain any punctuation
+a3	again a third article
+a4	a fourth one
+a4	a fifth one with the 4th id which contains many duplicated words a b b c a a g g e aa bb aa aa bb

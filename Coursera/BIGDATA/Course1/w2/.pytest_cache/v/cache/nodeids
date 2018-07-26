@@ -1,0 +1,5 @@
+[
+  "pytestEx.py::test_get_words_simple_string",
+  "pytestEx.py::test_get_words_parse_empty",
+  "pytestEx.py::test_get_words_exceptionnoinput"
+]
